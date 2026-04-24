@@ -1,0 +1,10 @@
+2026-04-24 19:15:40,116 [INFO] PID: 13968 | NAME: msedgewebview2.exe | ACTION: SUSPEND | REASON: High threat score from heuristic analyzer
+2026-04-24 19:15:40,116 [INFO] PID: 13968 | NAME: msedgewebview2.exe | ACTION: PROCESS-BLOCK | REASON: Score: 85
+2026-04-24 19:15:40,519 [INFO] PID: 13968 | NAME: msedgewebview2.exe | ACTION: SUSPEND | REASON: High threat score from heuristic analyzer
+2026-04-24 19:15:40,520 [INFO] PID: 13968 | NAME: msedgewebview2.exe | ACTION: PROCESS-BLOCK | REASON: Score: 85
+2026-04-24 19:16:03,353 [INFO] PID: 17644 | NAME: OneDrive.Sync.Service.exe | ACTION: SUSPEND | REASON: High threat score from heuristic analyzer
+2026-04-24 19:16:03,354 [INFO] PID: 17644 | NAME: OneDrive.Sync.Service.exe | ACTION: PROCESS-BLOCK | REASON: Score: 85
+2026-04-24 19:16:07,241 [INFO] PID: 632 | NAME: msedgewebview2.exe | ACTION: SUSPEND | REASON: High threat score from heuristic analyzer
+2026-04-24 19:16:07,241 [INFO] PID: 632 | NAME: msedgewebview2.exe | ACTION: PROCESS-BLOCK | REASON: Score: 85
+2026-04-24 19:16:07,818 [INFO] PID: 632 | NAME: msedgewebview2.exe | ACTION: SUSPEND | REASON: High threat score from heuristic analyzer
+2026-04-24 19:16:07,818 [INFO] PID: 632 | NAME: msedgewebview2.exe | ACTION: PROCESS-BLOCK | REASON: Score: 85
